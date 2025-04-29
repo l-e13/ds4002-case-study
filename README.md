@@ -19,11 +19,12 @@ This dataset includes:
 Note: I have also included the original dataset, but that won't be needed for this project.
 
 ## How to Get Started
-
+- Read through the (`CS3 Hook Document.pdf`)
+- Follow the case study **rubric** (`CS3 Rubric.pdf`) to structure your project
+- Check out the **reference articles**. They will help you understand:
+  - Why tracking public sentiment during COVID-19 matters
+  - How sentiment analysis methods like VADER work
 - Open a new Jupyter notebook (`your_notebook.ipynb`)
 - Load the dataset (`df_us_sentiment.csv`)
 - Choose your keywords carefully
-- Follow the case study **rubric** (`CS3 Rubric.pdf`) to structure your project
-- Check out these **reference articles**. They will help you understand:
-  - Why tracking public sentiment during COVID-19 matters
-  - How sentiment analysis methods like VADER work
+
