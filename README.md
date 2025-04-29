@@ -16,13 +16,14 @@ This dataset includes:
 - `Sentiment`: Pre-labeled as **Positive**, **Negative**, or **Neutral**
 - `VADER Score`: Numeric sentiment score from -1 (very negative) to +1 (very positive)
 
+Note: I have also included the original dataset, but that won't be needed for this project.
+
 ## How to Get Started
 
-- Open a new Jupyter notebook (`your_analysis_here.ipynb`).
-- Load the dataset (`df_us_sentiment.csv`).
-- Choose your keywords carefully.
-- Follow the case study **rubric** (`rubric.pdf`) to structure your project.
-- Check out the two **reference articles** to better understand the real-world importance of your work.
-  These articles will help you understand:
-- Why tracking public sentiment during COVID-19 matters
-- How sentiment analysis methods like VADER work
+- Open a new Jupyter notebook (`your_notebook.ipynb`)
+- Load the dataset (`df_us_sentiment.csv`)
+- Choose your keywords carefully
+- Follow the case study **rubric** (`CS3 Rubric.pdf`) to structure your project
+- Check out these **reference articles**. They will help you understand:
+  - Why tracking public sentiment during COVID-19 matters
+  - How sentiment analysis methods like VADER work
