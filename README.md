@@ -15,3 +15,14 @@ This dataset includes:
 - `TweetAt`: The date of the tweet
 - `Sentiment`: Pre-labeled as **Positive**, **Negative**, or **Neutral**
 - `VADER Score`: Numeric sentiment score from -1 (very negative) to +1 (very positive)
+
+## How to Get Started
+
+- Open a new Jupyter notebook (`your_analysis_here.ipynb`).
+- Load the dataset (`df_us_sentiment.csv`).
+- Choose your keywords carefully.
+- Follow the case study **rubric** (`rubric.pdf`) to structure your project.
+- Check out the two **reference articles** to better understand the real-world importance of your work.
+  These articles will help you understand:
+- Why tracking public sentiment during COVID-19 matters
+- How sentiment analysis methods like VADER work
